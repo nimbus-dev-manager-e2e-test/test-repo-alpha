@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution>
+  <Project Path="TestRepoAlpha/TestRepoAlpha.csproj" />
+  <Project Path="../test-repo-beta/TestRepoBeta/TestRepoBeta.csproj" />
+  <Project Path="../test-repo-gamma/TestRepoGamma/TestRepoGamma.csproj" />
+</Solution>
